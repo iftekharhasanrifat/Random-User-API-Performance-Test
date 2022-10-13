@@ -11,7 +11,7 @@
  - put the jmx file the bin folder of the jmeter installation path
  - open cmd and hit the following command
  ```jmeter```
- - from jmeter open the file for the bin and use the expected data from the xlx file
+ - from jmeter open the file from the bin and use the expected data from the xlx file and hit the run button
  
  
  ## Prerequisite
